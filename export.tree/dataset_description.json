@@ -1,0 +1,27 @@
+{
+    "Name": "SUDMEX_TMS",
+    "BIDSVersion": "1.0.1",
+    "License": "CC0",
+    "Authors": [
+        "Diego Angeles-Valdez",
+        "Jalil Rasgado-Toledo",
+        "Viviana Villicana",
+        "Alan Davalos-Guzman",
+        "Alfonso Fajardo-Valdez",
+        "Cristina Almanza",
+        "Ruth Alcala-Lozano",
+        "Eduardo A. Garza-Villarreal"
+    ],
+    "Acknowledgments": "",
+    "HowToAcknowledge": "Cite the paper: Garza-Villarreal, E. A., Alcala-Lozano, R., Fernandez-Lozano, S., Morelos-Santana, E., Dávalos, A., Villicaña, V., Alcauter, S., Castellanos, F. X., & Gonzalez-Olvera, J. J. (2021). Clinical and Functional Connectivity Outcomes of 5-Hz Repetitive Transcranial Magnetic Stimulation as an Add-on Treatment in Cocaine Use Disorder: A Double-Blind Randomized Controlled Trial. Biological Psychiatry. Cognitive Neuroscience and Neuroimaging, 6(7), 745–757. https://doi.org/10.1016/j.bpsc.2021.01.003",
+    "Funding": [
+        "CONACYT FOSISS No. 0260971",
+        "CONACYT No. 253072"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S2451902221000215?via%3Dihub",
+        "https://clinicaltrials.gov/ct2/show/NCT02986438"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003037.v2.1.0",
+    "Acknowledgements": "We would like to thank Alejandra Torres, Daniela Guerrero León, Ernesto Reyes Zamorano,Eden Sanchez Rosas, Hugo García Cantú and Isabel Espinoza Luna for their assistance inconducting the clinical trial. Major thanks to Michael D. Fox and Molly Schineller for providingthe normative connectivity maps from fucidals. We also thank the Laboratorio Nacional deVisualización Científica Avanzada (LAVIS) for the use of their computer cluster and theLaboratorio Nacional de Imagenología por Resonancia Magnética (LANIREM)."
+}
